@@ -1,38 +1,49 @@
-# Quality Engineering Leadership Portfolio
-
-A recruiter-facing portfolio and evidence repository focused on enterprise Salesforce QA leadership, manual testing strategy, UAT governance, requirements engineering, Jira delivery workflows, and release readiness.
-
-## Positioning
+# Chasio Brown — Quality Engineering Leadership Portfolio
 
 **Quality Engineering Leader | Salesforce QA SME**
 
-This portfolio is intentionally built around QA leadership and enterprise delivery rather than test automation. It demonstrates how quality is designed into the delivery lifecycle from business intake through production validation.
+Enterprise Salesforce QA portfolio showcasing quality engineering leadership, manual testing strategy, QA governance, UAT, requirements engineering, Jira delivery workflows, release readiness, and sanitized case studies.
 
-## Public-safety rule
+## Professional Focus
 
-All case studies are generalized and sanitized. Do **not** publish employer-confidential screenshots, student/customer information, internal URLs, ticket numbers, NetIDs/user IDs, private email addresses, proprietary field/API names, or security-sensitive configuration.
+I build quality into the delivery lifecycle rather than treating testing as a final phase. My work focuses on creating clear requirements, repeatable QA processes, strong UAT governance, risk-based test coverage, release-readiness controls, and stakeholder visibility across enterprise Salesforce delivery.
 
-## Repository map
+## Portfolio Content
 
-- `index.html` — standalone recruiter-facing website, ready for GitHub Pages.
-- `case-studies/` — five sanitized case studies.
-- `frameworks/` — reusable QA operating-model documentation.
-- `templates/` — practical QA/BA artifacts.
-- `FRAMER_BUILD_PROMPT.md` — exact Framer build specification.
-- `FRAMER_EXECUTION.md` — current Framer Agent setup and execution steps.
-- `GITHUB_PUBLISHING.md` — GitHub repository + Pages launch steps.
-- `CLAUDE_FRAMER_AGENT_PROMPT.md` — prompt for Claude + Framer Agent.
-- `PORTFOLIO_BUILD_PLAN.md` — end-to-end implementation plan.
-- `PRIVACY_SANITIZATION_CHECKLIST.md` — publication gate.
+### Case Studies
+- Enterprise QA Lifecycle Transformation
+- Salesforce Flow Fault-Handling Validation
+- Automated Case Management & Scheduled Closure
+- Requirements Clarification: Correct Record Association
+- From Business Request to Testable Acceptance Criteria
 
-## GitHub Pages
+### Quality Frameworks
+- QA Delivery Lifecycle
+- UAT Governance Framework
+- Salesforce Testing Strategy
+- Defect Management Framework
 
-This site is plain HTML/CSS/JavaScript and needs no build step. After pushing the repository, enable GitHub Pages from the default branch and root directory.
+### Reusable Templates
+- Acceptance Criteria Template
+- QA Test Case Template
+- QA Pass/Fail Template
+- Defect Template
+- Release Readiness Checklist
 
-## Final personalization before public launch
+## Experience Highlights
 
-1. Replace `Chas` with your preferred public full name if desired.
-2. Add LinkedIn, email, and resume URLs in the Contact section.
-3. Add a professional headshot only if you want one; the current design does not require it.
-4. Confirm every employer-derived artifact against `PRIVACY_SANITIZATION_CHECKLIST.md`.
-5. Add a custom domain after the site is approved.
+- 12+ years of software quality assurance experience
+- 10+ years of Salesforce experience
+- QA leadership experience managing and mentoring teams of up to six testers
+- Experience across higher education, federal healthcare, financial services, web/mobile, POS, and payment platforms
+- Functional, regression, integration, end-to-end, exploratory, accessibility, UAT, API, SQL-data, and production validation experience
+- Salesforce Certified Associate
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/chasio-brown-103863a1/)
+- Email: [chasiobrown@gmail.com](mailto:chasiobrown@gmail.com)
+
+---
+
+All public case studies are generalized and sanitized to protect employer, customer, and user confidentiality. The portfolio demonstrates quality-engineering methods, decision-making, governance, and delivery practices rather than proprietary implementation details.
